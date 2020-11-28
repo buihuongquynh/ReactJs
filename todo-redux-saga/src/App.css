@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+.text{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.add h1{
+  width: 15%;
+  border: solid darkgreen 1px ;
+  background-color: darkgreen;
+  border-radius: 3px;
+  color: burlywood;
+}
+.add h2{
+  width: 10%;
+  border: solid darkgreen 1px ;
+  background-color: darkgreen;
+  border-radius: 3px;
+  color: burlywood;
+}
+.list_item{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.list_item .row{
+  display: flex;
+
+}
+.list_item p{
+  padding: 0 30px;
+  font-size: 1.2rem;
+  font-family: system-ui;
+
+}
+.border{
+  border: 1px solid black;
+  
+}
+.delete p, .edit p {
+  border: solid darkgreen 1px ;
+  background-color: darkgreen;
+  border-radius: 3px;
+  color: burlywood;
+}
+.delete , .edit {
+  margin: 0 10px;
+}
+input{
+  font-size: 1.3rem;
+  padding: 5px 0;
+}
