@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactJs/sagas-redux/static/css/main.a2a463fc.chunk.css",
+    "main.js": "/ReactJs/sagas-redux/static/js/main.628b3a16.chunk.js",
+    "main.js.map": "/ReactJs/sagas-redux/static/js/main.628b3a16.chunk.js.map",
+    "runtime-main.js": "/ReactJs/sagas-redux/static/js/runtime-main.68253499.js",
+    "runtime-main.js.map": "/ReactJs/sagas-redux/static/js/runtime-main.68253499.js.map",
+    "static/js/2.5dbc4ad4.chunk.js": "/ReactJs/sagas-redux/static/js/2.5dbc4ad4.chunk.js",
+    "static/js/2.5dbc4ad4.chunk.js.map": "/ReactJs/sagas-redux/static/js/2.5dbc4ad4.chunk.js.map",
+    "static/js/3.5a065ec9.chunk.js": "/ReactJs/sagas-redux/static/js/3.5a065ec9.chunk.js",
+    "static/js/3.5a065ec9.chunk.js.map": "/ReactJs/sagas-redux/static/js/3.5a065ec9.chunk.js.map",
+    "index.html": "/ReactJs/sagas-redux/index.html",
+    "static/css/main.a2a463fc.chunk.css.map": "/ReactJs/sagas-redux/static/css/main.a2a463fc.chunk.css.map",
+    "static/js/2.5dbc4ad4.chunk.js.LICENSE.txt": "/ReactJs/sagas-redux/static/js/2.5dbc4ad4.chunk.js.LICENSE.txt",
+    "static/media/coingecko-logo-d13d6bcceddbb003f146b33c2f7e8193d72b93bb343d38e392897c3df3e78bdd (1).6dcea3b1.webp": "/ReactJs/sagas-redux/static/media/coingecko-logo-d13d6bcceddbb003f146b33c2f7e8193d72b93bb343d38e392897c3df3e78bdd (1).6dcea3b1.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68253499.js",
+    "static/js/2.5dbc4ad4.chunk.js",
+    "static/css/main.a2a463fc.chunk.css",
+    "static/js/main.628b3a16.chunk.js"
+  ]
+}
